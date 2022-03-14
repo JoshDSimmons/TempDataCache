@@ -1,3 +1,8 @@
-{
-    "title": "test"
-}
+[
+    {
+        "title": "Outdoor Facilities",
+        "Description": "This is a description for outdoor facilites",
+        "MapImageURL": "/blob/main/LayerConfiguration/LayerImages/OutdoorFacilities.png?raw=true",
+        "MapConfigURL": "/blob/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
+    }
+]
