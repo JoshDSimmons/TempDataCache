@@ -1,14 +1,14 @@
 [
     {
         "title": "Outdoor Facilities",
-        "Description": "This is a description for outdoor facilites",
-        "MapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
-        "MapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
+        "description": "This is a description for outdoor facilites",
+        "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
+        "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
     },
     {
         "title": "Test Map",
-        "Description": "This is a test map",
-        "MapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
-        "MapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
+        "description": "This is a test map",
+        "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
+        "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
     }
 ]
