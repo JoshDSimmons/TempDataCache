@@ -2,7 +2,7 @@
     {
         "title": "Outdoor Facilities",
         "Description": "This is a description for outdoor facilites",
-        "MapImageURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/MapConfigDirectory.json",
+        "MapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
         "MapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
     }
 ]
