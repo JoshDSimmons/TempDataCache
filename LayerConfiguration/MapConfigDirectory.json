@@ -1,23 +1,27 @@
 [
     {
+        "id": 1,
         "title": "Outdoor Facilities",
         "description": "This is a description for outdoor facilites",
         "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
         "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
     },
     {
+        "id": 2,
         "title": "Test Map",
         "description": "This is a test map",
         "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
         "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
     },
     {
+        "id": 3,
         "title": "Las Vegas Datacenter",
         "description": "Map for the data center in Las Vegas Nevada",
         "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/blob/main/LayerConfiguration/LayerImages/LasVegasDataCenter.png?raw=true",
         "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/LasVegasDataCenter.json"
     },
     {
+        "id": 4,
         "title": "Test Map 2",
         "description": "This is a test map 2",
         "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
