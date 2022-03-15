@@ -16,5 +16,11 @@
         "description": "Map for the data center in Las Vegas Nevada",
         "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/blob/main/LayerConfiguration/LayerImages/LasVegasDataCenter.png?raw=true",
         "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/LasVegasDataCenter.json"
+    },
+    {
+        "title": "Test Map 2",
+        "description": "This is a test map 2",
+        "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
+        "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
     }
 ]
