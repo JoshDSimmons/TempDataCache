@@ -81,7 +81,7 @@
             "install_status": "1",
             "lists": null,
             "supported_by": null,
-            "name": "Las Vegas Data Center RACK TEST",
+            "name": "Las Vegas Datacenter",
             "subcategory": "Las Vegas Data Center",
             "assignment_group": null,
             "configuration": "{\r\n    \"mapParent\": true,\r\n    \"showInMapDirectory\": true,\r\n    \"viewType\": \"scene\",\r\n    \"debugTimer\": false,\r\n    \"zoom\": 23,\r\n    \"center\": [\r\n        \"-115.101474\",\r\n        \"36.24833\"\r\n    ],\r\n    \"visible\": true,\r\n    \"widgets\": [\r\n        {\r\n            \"type\": \"objectEditor\",\r\n            \"expand\": true,\r\n            \"position\": \"top-right\"\r\n        },\r\n        {\r\n            \"type\": \"lineEditor\",\r\n            \"expand\": true,\r\n            \"position\": \"top-right\"\r\n        }\r\n    ]\r\n}",
