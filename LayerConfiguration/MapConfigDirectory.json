@@ -11,7 +11,7 @@
         "title": "Test Map",
         "description": "This is a test map",
         "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/raw/main/LayerConfiguration/LayerImages/OutdoorFacilities.png",
-        "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/OutdoorFacilities.json"
+        "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/TestMap.json"
     },
     {
         "id": "100288f55340421cb23fa578f601650c",
