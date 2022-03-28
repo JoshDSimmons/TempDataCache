@@ -20633,7 +20633,7 @@
             "sys_created_by": "admin",
             "child": "f5bd67cd2faa8d1051b8debcf699b6a9"
         },
-        {
+        { 
             "sys_meta": null,
             "parent": "f5bd67cd2faa8d1051b8debcf699b6a8",
             "connection_strength": "always",
