@@ -21,6 +21,13 @@
         "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/LasVegasDataCenter.json"
     },
     {
+        "id": "",
+        "title": "Las Vegas Property Management",
+        "description": "Property Management for the Bellagio Hotel and surrounding area",
+        "mapImageURL": "",
+        "mapConfigURL": ""
+    },
+    {
         "id": "99d46c7341bc4148aae560b24ac80112",
         "title": "Test Map 2",
         "description": "This is a test map 2",
