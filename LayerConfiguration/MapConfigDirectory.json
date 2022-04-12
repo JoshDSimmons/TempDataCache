@@ -24,8 +24,8 @@
         "id": "",
         "title": "Las Vegas Property Management",
         "description": "Property Management for the Bellagio Hotel and surrounding area",
-        "mapImageURL": "",
-        "mapConfigURL": ""
+        "mapImageURL": "https://github.com/JoshDSimmons/TempDataCache/blob/main/LayerConfiguration/LayerImages/LasVegasPropertyManagement.png?raw=true",
+        "mapConfigURL": "https://raw.githubusercontent.com/JoshDSimmons/TempDataCache/main/LayerConfiguration/LayerConfigs/LasVegasPropertyManagement.json"
     },
     {
         "id": "99d46c7341bc4148aae560b24ac80112",
