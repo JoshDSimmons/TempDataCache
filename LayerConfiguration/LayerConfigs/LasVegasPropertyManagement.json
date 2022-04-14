@@ -41249,7 +41249,12 @@
                     "configuration_item": "300a431c1b0d4d5003f2eac0604bcb5e",
                     "width": null,
                     "model_object": null
-                },
+                }                
+            ]
+        },
+        {
+            "className": "cmdb_ci_service",
+            "configurationItems": [
                 {
                     "sys_meta": null,
                     "attested_date": "",
